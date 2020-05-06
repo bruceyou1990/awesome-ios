@@ -431,7 +431,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Text 输入框
  * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
- * [Nimbus](http://nimbuskit.info/) - Nimbus is a toolkit for experienced iOS software designers.
+ * [Nimbus](http://nimbuskit.info) - Nimbus is a toolkit for experienced iOS software designers.
  * [NSStringEmojize](https://github.com/diy/nsstringemojize) - A category on NSString to convert Emoji Cheat Sheet codes to their equivalent Unicode characters.
  * [MMMarkdown](https://github.com/mdiep/MMMarkdown) - An Objective-C static library for converting Markdown to HTML.
  * [DTCoreText](https://github.com/Cocoanetics/DTCoreText) - Methods to allow using HTML code with CoreText.
