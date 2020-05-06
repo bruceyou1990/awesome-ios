@@ -393,7 +393,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [OctopusKit](https://github.com/icoco/OctopusKit) - A simplicity but graceful solution for invoke RESTful web service APIs.
 
 
-### Push Notifications 推送
+### APNS推送
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
  * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
  * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing.
@@ -401,12 +401,12 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
  * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
 
-### Passbook
+### Passbook 银行存折
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
  * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
  * [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
 
-### Permissions
+### Permissions 用户权限管理
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API (Supports Location, Notifications, Camera, Contacts, Calendar, Photos, Microphone, BT, Activity Monitoring, HealthKit and CloudKit). :large_orange_diamond:
 * [Proposer](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). :large_orange_diamond:
 * [ICanHas](https://github.com/wircho/ICanHas) - Simplifies iOS user permission requests (Supports location, push notifications, camera, contacts, calendar, photos). :large_orange_diamond:
@@ -415,12 +415,12 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [JLPermissions](https://github.com/jlaws/JLPermissions) - An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.
 * [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) - Reusable pre-permissions utility that lets developers ask users for access in their own dialog, before making the system-based request.
 
-### Regex
+### Regex 正则表达式
  * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type :large_orange_diamond:
  * [SwiftRegex](https://github.com/kasei/SwiftRegex) - Perl-like regex =~ operator for Swift :large_orange_diamond:
  * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way :large_orange_diamond:
  
-### Security
+### Security 安全
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
  * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
  * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
@@ -562,9 +562,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
  * [Curry](https://github.com/devinross/curry) - Curry is a framework built to enhance and compliment Foundation and UIKit.
 
-##### Activity Indicator
+##### Activity Indicator 很棒的加载动画的集合
 
- * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. :large_orange_diamond:
+ * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. :large_orange_diamond:  | 很棒的加载动画的集合
  * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift :large_orange_diamond:
  * [RPLoadingAnimation](https://github.com/naoyashiga/RPLoadingAnimation) - Loading animations by using Swift CALayer :large_orange_diamond:
  * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation :large_orange_diamond:
@@ -649,7 +649,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - A Slide Menu, written in Swift, inspired by Slide Menu Material Design. :large_orange_diamond:
 
 ### WebSocket
- * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
+ * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library. | 符合标准的Objective-C WebSocket客户端库。
  * [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - Socket.IO-client for iOS/OS X. :large_orange_diamond:
 
 ### Code Quality 高质量编码
@@ -688,7 +688,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
  * [Moltin](https://moltin.com/ios-ecommerce-sdk) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
 
-### Products
+### Products 产品
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data.
  * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
 
